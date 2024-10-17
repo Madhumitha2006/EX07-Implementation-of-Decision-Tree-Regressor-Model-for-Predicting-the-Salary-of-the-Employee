@@ -44,12 +44,14 @@ mse=metrics.mean_squared_error(y_test,y_pred)
 mse
 r2=metrics.r2_score(y_test,y_pred)
 r2
+dt.predict([[5,6]])
 ```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/f37f2fdf-c2f3-4e8f-9780-4f95abde683c)
 ![image](https://github.com/user-attachments/assets/4cab0d0a-249d-4dd4-b7b1-e1876d602b8d)
 ![image](https://github.com/user-attachments/assets/91003cac-7836-4277-b16f-99f38fdb5c80)
+![image](https://github.com/user-attachments/assets/484fa981-09ef-41b5-b8d7-84e4bef35964)
 
 
 
